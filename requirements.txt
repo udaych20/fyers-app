@@ -1,0 +1,7 @@
+fyers_apiv3
+mysql-connector-python
+pandas
+pyotp
+selenium
+flask
+flask_cors
